@@ -1,1 +1,10 @@
-Para un desarrollador, saber usar la terminal es fundamental por varias razones. Primero, la terminal permite navegar y organizar archivos de manera rápida y eficiente sin necesidad de usar el mouse. Segundo, muchos servidores y entornos de producción no tienen interfaz gráfica, solo terminal, por lo que es indispensable para desplegar aplicaciones. Tercero, herramientas como Git se usan principalmente desde la terminal con comandos como git add, git commit y git push. Cuarto, la terminal permite automatizar tareas repetitivas con scripts. Quinto, trabajar con la terminal da más control y velocidad sobre el sistema de archivos. Sexto, facilita la instalación de paquetes y dependencias con comandos como npm, pip o apt. Séptimo, es útil para diagnosticar problemas viendo logs y errores. Octavo, la mayoría de los tutoriales y documentación usan comandos de terminal. Por todo esto, dominar la terminal es una habilidad esencial para cualquier desarrollador.
+Saber usar la terminal es fundamental para un desarrollador por varias razones.
+La terminal permite navegar y organizar archivos sin necesidad de usar el mouse.
+Muchos servidores no tienen interfaz gráfica, solo terminal, por lo que es indispensable.
+Herramientas como Git se usan principalmente desde la terminal con comandos específicos.
+La terminal permite automatizar tareas repetitivas con scripts personalizados.
+Trabajar con la terminal da más control y velocidad sobre el sistema de archivos.
+Facilita la instalación de paquetes y dependencias con comandos como npm o pip.
+Es útil para diagnosticar problemas viendo logs y errores en tiempo real.
+La mayoría de tutoriales y documentación usan comandos de terminal en sus ejemplos.
+Dominar la terminal es una habilidad esencial para cualquier desarrollador profesional.

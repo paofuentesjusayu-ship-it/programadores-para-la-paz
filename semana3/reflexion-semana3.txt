@@ -1,1 +1,10 @@
-Mantener un registro de cambios en proyectos de software usando herramientas como Git es muy importante por varias razones. Primero, permite saber quién hizo cada cambio y cuándo, lo que facilita la colaboración en equipo. Segundo, si alguien introduce un error, se puede volver a una versión anterior del proyecto y corregirlo rápidamente. Tercero, Git guarda un historial completo del desarrollo, lo que ayuda a entender cómo evolucionó el proyecto. Cuarto, en empresas y proyectos grandes, la trazabilidad es obligatoria para certificaciones y auditorías. Quinto, facilita el trabajo en paralelo: varias personas pueden trabajar en diferentes funciones sin pisarse entre sí. Sexto, sirve como respaldo automático, evitando perder el trabajo por fallos técnicos. Séptimo, permite experimentar sin miedo: puedes crear ramas, probar ideas y si no funcionan, volver atrás. Octavo, plataformas como GitHub integran revisión de código, documentación y seguimiento de tareas. Por todo esto, usar Git no es solo una buena práctica, es una necesidad para cualquier proyecto serio.
+Mantener un registro de cambios en proyectos de software con Git es muy importante.
+Permite saber quién hizo cada cambio y cuándo, facilitando la colaboración en equipo.
+Si alguien introduce un error, se puede volver a una versión anterior del proyecto.
+Git guarda un historial completo del desarrollo y su evolución en el tiempo.
+En empresas grandes, la trazabilidad es obligatoria para certificaciones y auditorías.
+Varias personas pueden trabajar en diferentes funciones sin pisarse entre sí.
+Sirve como respaldo automático, evitando perder el trabajo por fallos técnicos.
+Permite experimentar sin miedo creando ramas y probando nuevas ideas.
+Plataformas como GitHub integran revisión de código y seguimiento de tareas.
+Por todo esto, usar Git no es solo una buena práctica, es una necesidad.
