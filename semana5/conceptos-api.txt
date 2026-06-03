@@ -1,2 +1,76 @@
-RUTA POST /reporte - RECIBE REPORTES CIUDADANOS
-Sirve para enviar información. En aplicaciones comunitarias ayuda a reportar baches, fugas, alertas de seguridad, sugerencias y solicitudes de ayuda de manera organizada.
+¿QUÉ HACE LA RUTA POST /reporte?
+=================================
+
+La ruta POST /reporte es un endpoint que recibe datos enviados por el usuario
+a través del cuerpo (body) de la solicitud en formato JSON.
+
+FUNCIONAMIENTO:
+---------------
+1. El usuario envía una solicitud POST a http://localhost:3000/reporte
+2. En el cuerpo de la solicitud debe incluir: { "mensaje": "texto del reporte" }
+3. El servidor extrae ese mensaje usando req.body.mensaje
+4. El servidor responde con un objeto JSON que contiene:
+   - estado: "Reporte recibido" (confirmación)
+   - mensaje: el texto original que envió el usuario
+
+DIFERENCIA CON LAS RUTAS GET:
+------------------------------
+Las rutas GET se prueban escribiendo directamente en el navegador.
+Las rutas POST requieren enviar datos en el cuerpo de la solicitud,
+por lo que necesitamos herramientas como:
+- Thunder Client (extensión de VS Code)
+- Postman
+- curl (como usamos en la terminal)
+- JavaScript desde el navegador
+
+¿PARA QUÉ PODRÍA SERVIR EN UNA APLICACIÓN COMUNITARIA?
+=======================================================
+
+1. REPORTE DE INCIDENTES VECINALES:
+   Los vecinos pueden reportar problemas en su barrio como:
+   - Baches en las calles
+   - Farolas dañadas
+   - Fugas de agua
+   - Acumulación de basura
+   
+   Ejemplo: {"mensaje": "Hay un bache muy grande en la calle 5 con carrera 8"}
+
+2. ALERTAS DE SEGURIDAD CIUDADANA:
+   La comunidad puede reportar situaciones sospechosas o emergencias:
+   - Personas sospechosas merodeando
+   - Accidentes de tránsito
+   - Incendios o emergencias médicas
+   
+   Ejemplo: {"mensaje": "ALERTA: Vehículo sospechoso circulando por el barrio"}
+
+3. QUEJAS Y SUGERENCIAS PARA MEJORAS:
+   Los ciudadanos pueden enviar propuestas para mejorar su comunidad:
+   - Necesidad de parques o zonas verdes
+   - Solicitud de señalización vial
+   - Propuestas para actividades culturales
+   
+   Ejemplo: {"mensaje": "Sugerencia: Instalar una cancha de baloncesto en el parque"}
+
+4. SOLICITUDES DE AYUDA COMUNITARIA:
+   Vecinos pueden pedir apoyo para situaciones específicas:
+   - Voluntarios para limpieza comunitaria
+   - Donaciones para personas necesitadas
+   - Ayuda para adultos mayores
+   
+   Ejemplo: {"mensaje": "Se buscan voluntarios para reparar la sede comunal"}
+
+5. REGISTRO DE EVENTOS COMUNITARIOS:
+   Organizadores pueden publicar actividades:
+   - Talleres y capacitaciones
+   - Reuniones de junta de acción comunal
+   - Eventos deportivos o culturales
+   
+   Ejemplo: {"mensaje": "Taller de huertos urbanos el sábado 15 de junio, 10am"}
+
+VENTAJAS PARA LA COMUNIDAD:
+---------------------------
+- Organización centralizada de toda la información
+- Respuesta inmediata (confirmación de recepción)
+- Estructura estandarizada para facilitar el procesamiento
+- Base para construir un sistema de gestión comunitaria completo
+- Posibilidad de conectar con mapas, notificaciones y otras herramientas
