@@ -1,0 +1,2 @@
+RUTA POST /reporte - RECIBE REPORTES CIUDADANOS
+Sirve para enviar información. En aplicaciones comunitarias ayuda a reportar baches, fugas, alertas de seguridad, sugerencias y solicitudes de ayuda de manera organizada.

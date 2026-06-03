@@ -1,0 +1,5 @@
+PRUEBAS DE RUTAS - SEMANA 5
+
+1. http://localhost:3000 - Muestra "Servidor activo" (ruta principal)
+2. http://localhost:3000/saludo - Muestra "Hola comunidad" (saludo general)
+3. http://localhost:3000/mensaje/juan - Muestra "Hola juan" (saludo personalizado)
