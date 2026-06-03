@@ -1,37 +1,13 @@
 PRUEBAS DE RUTAS - SEMANA 5
-================================
 
-RUTA 1: http://localhost:3000
---------------------------------
+RUTA: http://localhost:3000
 RESULTADO: "Servidor activo"
+DESCRIPCIÓN: Ruta principal que confirma que el servidor funciona.
 
-DESCRIPCIÓN:
-Esta es la ruta principal o raíz del servidor. Al acceder a ella,
-el servidor responde con un mensaje indicando que está funcionando
-correctamente. Es como el "inicio" de nuestra API.
-
-
-RUTA 2: http://localhost:3000/saludo
--------------------------------------
+RUTA: http://localhost:3000/saludo
 RESULTADO: "Hola comunidad"
+DESCRIPCIÓN: Saludo general para toda la comunidad.
 
-DESCRIPCIÓN:
-Esta ruta responde con un saludo dirigido a toda la comunidad.
-Es útil para mostrar mensajes de bienvenida, anuncios generales
-o información importante para todos los usuarios que visitan el sitio.
-
-
-RUTA 3: http://localhost:3000/mensaje/juan
--------------------------------------------
+RUTA: http://localhost:3000/mensaje/juan
 RESULTADO: "Hola juan"
-
-DESCRIPCIÓN:
-Esta ruta utiliza un parámetro dinámico llamado ":nombre".
-Cuando escribimos "juan" en la URL, el servidor captura ese valor
-y lo usa para personalizar el mensaje. Podemos cambiar "juan"
-por cualquier nombre (maria, pedro, carlos) y el servidor
-responderá con "Hola [el nombre que escribimos]".
-
-Esto es muy útil porque no necesitamos crear una ruta diferente
-para cada persona. Una sola ruta puede saludar a cualquier persona
-de manera personalizada.
+DESCRIPCIÓN: Ruta con parámetro que personaliza el mensaje según el nombre.
