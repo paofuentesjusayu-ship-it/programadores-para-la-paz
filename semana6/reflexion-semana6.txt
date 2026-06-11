@@ -1,0 +1,10 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes ciudadanos de forma estructurada porque esto permite automatizar el procesamiento de la información.
+Al usar formatos como JSON, se reducen errores humanos y se facilita el análisis de datos por parte de las autoridades.
+Las plataformas bien diseñadas permiten filtrar, clasificar y priorizar las incidencias de manera más eficiente.
+La estructuración de los reportes evita ambigüedades y asegura que ningún dato relevante quede por fuera.
+Esto también permite integrar los reportes con sistemas de visualización como mapas o paneles de control en tiempo real.
+Los ciudadanos se benefician porque pueden hacer seguimiento a sus solicitudes con números de radicado automáticos.
+En el contexto de una veeduría ciudadana, tener datos ordenados facilita la rendición de cuentas y la transparencia.
+Una plataforma tecnológica con reportes estructurados genera confianza en la comunidad.
+Los ciudadanos sienten que sus aportes son tomados en serio y procesados de manera profesional.
+Por estas razones, es fundamental que las herramientas de control ciudadano utilicen formatos estandarizados como JSON.

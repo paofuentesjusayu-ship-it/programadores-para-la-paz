@@ -1,0 +1,7 @@
+El servidor devuelve la siguiente respuesta en formato JSON:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

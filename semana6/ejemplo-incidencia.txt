@@ -1,0 +1,4 @@
+{
+  "tipo": "Fuga de agua",
+  "descripcion": "La comunidad reporta una fuga de agua en la esquina de la calle 5 con carrera 8 que lleva más de una semana sin ser reparada."
+}
