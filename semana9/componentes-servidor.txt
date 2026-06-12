@@ -1,0 +1,14 @@
+Sistema operativo:
+El sistema operativo (Linux, Windows, macOS) es la capa base del servidor. Administra el hardware (CPU, memoria, disco, red) y permite que las aplicaciones como Node.js se ejecuten sobre él. También gestiona los procesos, los archivos y la seguridad del sistema.
+
+Node.js:
+Node.js es un entorno de ejecución que permite ejecutar JavaScript fuera del navegador, en el lado del servidor. Incluye el motor V8 de Google y proporciona herramientas para crear servidores web, manejar archivos, gestionar peticiones y trabajar con redes.
+
+Aplicación server.js:
+server.js es el archivo que contiene el código de nuestra aplicación. Define las rutas que el servidor va a responder (como "/" y "/estado"), la lógica de negocio y la configuración del puerto. Es el punto de entrada de nuestro servidor.
+
+Puerto (3000):
+El puerto es un "número de dirección" que permite que el sistema operativo sepa qué aplicación debe recibir una solicitud. El puerto 3000 es donde nuestro servidor escucha. Cuando visitamos http://localhost:3000, le decimos al sistema que queremos conectarnos a la aplicación que está escuchando en ese puerto.
+
+Logs:
+Los logs son archivos o registros donde el servidor guarda información sobre su actividad: peticiones recibidas, errores, advertencias, usuarios que accedieron, etc. Son fundamentales para monitorear el estado del servidor, detectar fallos, hacer auditorías y entender qué sucede en el sistema.

@@ -1,0 +1,19 @@
+Es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor porque estas plataformas suelen manejar información sensible de los ciudadanos, como reportes de incidencias, datos personales o votaciones.
+
+Si el servidor es inestable y se cae con frecuencia, los usuarios perderán la confianza en la plataforma y dejarán de participar activamente.
+
+Un servidor inestable también puede provocar la pérdida de información importante, como reportes ciudadanos que no quedaron registrados correctamente.
+
+La seguridad del servidor es fundamental para evitar que personas malintencionadas accedan a datos privados o manipulen los reportes registrados.
+
+Un servidor bien configurado y monitoreado permite que la plataforma esté disponible las 24 horas del día, los 7 días de la semana.
+
+El monitoreo constante a través de logs ayuda a detectar errores tempranamente y solucionarlos antes de que afecten a los usuarios.
+
+Además, un servidor estable garantiza que todas las personas de la comunidad tengan el mismo acceso a la información sin importar la hora o el lugar.
+
+La seguridad incluye mantener el sistema operativo y las dependencias actualizadas para evitar vulnerabilidades conocidas.
+
+También implica usar contraseñas seguras, limitar el acceso a los datos sensibles y registrar todas las acciones importantes.
+
+Por todas estas razones, la estabilidad y seguridad del servidor son pilares fundamentales para cualquier plataforma tecnológica comunitaria.
