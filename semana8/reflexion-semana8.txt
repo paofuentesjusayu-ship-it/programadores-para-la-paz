@@ -1,0 +1,10 @@
+La seguridad digital es fundamental para proteger plataformas tecnológicas que utilizan comunidades o procesos participativos porque estas plataformas manejan información sensible de los ciudadanos.
+Si una plataforma comunitaria es vulnerada, los atacantes podrían robar datos personales como nombres, direcciones o incluso contraseñas de los usuarios.
+La pérdida de confianza es una de las consecuencias más graves: si la comunidad siente que sus datos no están seguros, dejará de participar.
+Las plataformas participativas suelen ser objetivos atractivos para ciberdelincuentes porque concentran información de muchas personas en un solo lugar.
+Una mala práctica de seguridad puede llevar a la manipulación de reportes ciudadanos, como eliminar incidencias o modificar su estado sin autorización.
+Además, el robo de credenciales de administradores podría permitir que personas ajenas tomen el control de la plataforma.
+La seguridad digital también protege la integridad de los procesos participativos, como votaciones o veedurías ciudadanas.
+Implementar buenas prácticas como el uso de contraseñas seguras, autenticación de dos factores y conexiones cifradas reduce drásticamente los riesgos.
+Por estas razones, cualquier proyecto tecnológico con impacto social debe incluir la seguridad como un pilar desde su diseño inicial.
+En resumen, una plataforma segura es una plataforma confiable y sostenible en el tiempo.
