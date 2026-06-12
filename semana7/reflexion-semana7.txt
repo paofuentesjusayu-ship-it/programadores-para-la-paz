@@ -1,0 +1,10 @@
+Es importante que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica porque esto facilita la comunicación entre ciudadanos y autoridades.
+Al tener un sistema centralizado, los reportes no se pierden en papel ni en mensajes desorganizados.
+Las plataformas permiten dar seguimiento a cada incidencia y saber si fue resuelta o no.
+Los ciudadanos pueden ver qué problemas ya fueron reportados y evitar duplicados.
+Las autoridades pueden priorizar las incidencias más graves o urgentes.
+Una base digital de reportes ayuda a identificar patrones, como zonas con más problemas de basura o iluminación.
+La transparencia aumenta porque cualquier persona puede consultar los reportes existentes.
+Esto fomenta la participación ciudadana y la confianza en las instituciones.
+Además, las plataformas tecnológicas permiten adjuntar fotos, fechas y ubicaciones precisas.
+Por todo esto, herramientas como la que construimos esta semana son fundamentales para el control ciudadano.

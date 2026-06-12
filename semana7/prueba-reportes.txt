@@ -1,0 +1,13 @@
+Cuando consulto la ruta GET /reportes después de haber registrado uno o más reportes, el servidor devuelve un arreglo JSON con todos los reportes almacenados en memoria.
+
+Por ejemplo, si envié un POST con {"tipo": "Infraestructura", "descripcion": "Daño en alumbrado público"}, luego al hacer GET recibo:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Si no hay reportes registrados, el GET devuelve un arreglo vacío: []

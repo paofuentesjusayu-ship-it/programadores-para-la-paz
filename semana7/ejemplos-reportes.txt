@@ -1,0 +1,17 @@
+Ejemplo 1:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público en la carrera 7 con calle 12"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en el parque del barrio Los Pinos"
+}
+
+Ejemplo 3 (extra):
+{
+  "tipo": "Seguridad",
+  "descripcion": "Falta de vigilancia en el colegio durante la noche"
+}
