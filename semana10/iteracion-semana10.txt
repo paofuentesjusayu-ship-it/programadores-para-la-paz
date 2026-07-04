@@ -1,0 +1,11 @@
+Tareas primero:
+1. Registrar incidencia con foto y ubicación.
+2. Notificación en Telegram al coordinador.
+
+Por qué son importantes:
+Sin registro no hay datos. Sin notificación el equipo no se entera a tiempo.
+
+Definición de "terminado":
+1. Funciona correctamente.
+2. Fue probada por otro miembro.
+3. Quedó registrada en Git.

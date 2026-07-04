@@ -1,0 +1,3 @@
+El backlog ordena tareas y evita que los problemas se pierdan. Las iteraciones cortas permiten aprender rápido y corregir errores a tiempo. La automatización con n8n libera tiempo al eliminar tareas repetitivas. Telegram es un canal accesible y gratuito para coordinación en tiempo real.
+
+Sin embargo, la tecnología no reemplaza el vínculo humano. La automatización debe ser supervisada, los datos personales protegidos y la comunidad debe tener siempre un canal humano. Las herramientas son un puente, no un fin en sí mismas.

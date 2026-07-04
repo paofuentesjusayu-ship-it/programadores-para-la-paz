@@ -1,0 +1,5 @@
+Evento: Ciudadano envía formulario de reporte.
+
+Mensaje a Telegram: "Nuevo reporte recibido. ID: [número]. Revisar sistema."
+
+Información NO enviar: nombres, cédulas, direcciones, teléfonos, claves o datos sensibles.

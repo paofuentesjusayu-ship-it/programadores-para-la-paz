@@ -1,0 +1,5 @@
+1. Como ciudadano quiero registrar una incidencia con foto y ubicación para dejar evidencia.
+2. Como coordinador quiero recibir alerta en Telegram al recibir un nuevo reporte.
+3. Como miembro quiero consultar historial de reportes para hacer seguimiento.
+4. Como ciudadano quiero recibir confirmación de que mi reporte fue recibido.
+5. Como administrador quiero generar reportes mensuales para presentar a autoridades.
