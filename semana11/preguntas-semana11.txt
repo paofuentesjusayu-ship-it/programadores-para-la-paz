@@ -1,0 +1,4 @@
+PREGUNTA 1: b) Un sistema que permite almacenar y consultar información estructurada.
+PREGUNTA 2: a) Crear, leer, actualizar y eliminar datos.
+PREGUNTA 3: b) Identificar usuarios y controlar quién puede acceder a ciertas funciones.
+PREGUNTA 4: b) Para evitar riesgos de privacidad o uso indebido de la información.

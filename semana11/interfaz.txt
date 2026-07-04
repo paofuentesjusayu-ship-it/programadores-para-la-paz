@@ -1,0 +1,29 @@
+INTERFAZ BÁSICA - PLATAFORMA COMUNITARIA
+
+DESCRIPCIÓN DE LA INTERFAZ:
+
+1. FORMULARIO PARA CREAR UNA CAUSA:
+- Campo: Título de la causa.
+- Campo: Descripción de la causa.
+- Campo: Fecha.
+- Botón: "Crear causa".
+
+2. LISTA DE CAUSAS DISPONIBLES:
+- Muestra todas las causas activas.
+- Cada causa muestra: título, descripción, fecha.
+- Botón: "Apoyar" para registrar apoyo.
+- Contador: Número de apoyos recibidos.
+
+3. CONTADOR DE APOYOS:
+- Se actualiza automáticamente cuando alguien apoya.
+- Muestra la cantidad total de apoyos.
+
+4. VISTA DE CAUSAS:
+- Ordenadas por fecha (más reciente primero).
+- Se puede filtrar por estado (activa/inactiva).
+
+CARACTERÍSTICAS DE SEGURIDAD:
+
+- No muestra información privada de usuarios.
+- Solo usuarios autenticados pueden apoyar.
+- La interfaz es clara y sencilla.

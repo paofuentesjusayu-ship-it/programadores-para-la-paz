@@ -1,0 +1,24 @@
+AUTENTICACIÓN EN LA PLATAFORMA
+
+¿Qué es el login en una aplicación?
+
+El login es el proceso que permite identificar a un usuario
+mediante credenciales (usuario y contraseña) antes de darle
+acceso a funciones protegidas de la plataforma.
+
+¿Por qué algunas rutas deben estar protegidas?
+
+Algunas rutas deben estar protegidas porque contienen
+información privada, registros internos, datos de la
+comunidad o acciones que no deberían estar disponibles
+para cualquier persona sin autenticación.
+
+¿Qué información no debería exponerse públicamente?
+
+No se deben exponer públicamente:
+- Contraseñas de usuarios.
+- Números de identificación (cédula, pasaporte).
+- Direcciones de residencia.
+- Números de teléfono o correos personales.
+- Tokens de acceso o claves de API.
+- Datos sensibles de la comunidad.
