@@ -1,0 +1,33 @@
+AUTOMATIZACIÓN CON n8n Y TELEGRAM
+
+EVENTO QUE ACTIVA EL FLUJO:
+
+- Una causa nueva es registrada en la plataforma.
+- O una causa alcanza 10, 50 o 100 apoyos.
+
+MENSAJE QUE SE ENVÍA A TELEGRAM:
+
+"¡Nueva causa creada!
+Título: [titulo de la causa]
+Creada por: [nombre básico]
+Apoyos: [número actual]
+Revisar en la plataforma: [enlace]"
+
+O
+
+"¡La causa [título] ha alcanzado [número] apoyos!
+Ya puede generar el PDF de petición formal."
+
+INFORMACIÓN QUE NO DEBE ENVIARSE POR SEGURIDAD:
+
+- Nombres completos de ciudadanos.
+- Números de identificación (cédula, pasaporte).
+- Direcciones de residencia.
+- Números de teléfono o correos electrónicos.
+- Comentarios sensibles o información privada.
+- Claves, tokens o datos personales.
+
+RECOMENDACIÓN:
+
+Siempre incluir un mensaje que invite a ingresar
+a la plataforma para ver los detalles completos.

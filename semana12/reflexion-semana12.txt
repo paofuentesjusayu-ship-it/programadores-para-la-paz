@@ -1,0 +1,35 @@
+REFLEXIÓN FINAL - CURSO COMPLETO
+
+¿Qué aprendiste durante el curso sobre el uso de la
+tecnología para fortalecer la participación ciudadana
+y la organización comunitaria?
+
+REFLEXIÓN:
+
+A lo largo del curso aprendí que la tecnología es una
+herramienta poderosa para la participación ciudadana,
+pero su éxito depende de cómo se diseña y se usa.
+
+Aprendí que un backlog y las iteraciones permiten
+organizar el trabajo comunitario de manera transparente
+y priorizar lo que realmente importa para la comunidad.
+
+También comprendí que la automatización con n8n y Telegram
+puede ahorrar tiempo y mejorar la comunicación, siempre
+que se use con responsabilidad y supervisión humana.
+
+La seguridad y la protección de datos son fundamentales
+para generar confianza. Nunca se deben almacenar o
+compartir datos personales innecesarios.
+
+Las herramientas como Git y GitHub facilitan el trabajo
+colaborativo y permiten llevar un registro claro de los
+avances y cambios en el proyecto.
+
+Al final, entendí que una solución tecnológica con
+impacto social no se mide por su complejidad, sino por
+su capacidad de ser útil, accesible y segura para la
+comunidad que la utiliza.
+
+La participación ciudadana se fortalece cuando la
+tecnología es un puente, no una barrera.
